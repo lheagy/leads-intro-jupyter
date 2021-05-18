@@ -19,7 +19,7 @@ The goals of this tutorial are to:
 ### Part 1: learn by doing -- working through a motivating example with the Mauna Loa CO2 data set
 - [10 min] Introduction: overview of Jupyter and Syzygy, brief overview of Python
 - [10 min] Steps for accessing the tutorial notebooks to follow along 
-- [40 min] Mauna Loa notebook
+- [30 min] Mauna Loa notebook
     - overview of common packages in Python including Pandas and Matplotlib 
     - features of JupyterLab: notebook, viewing different data types
     - using the notebook: 
