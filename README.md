@@ -1,10 +1,12 @@
-# leads-intro-jupyter
+# Introduction to Jupyter
 
 Introduction to Jupyter for the LEADS Summer School 
 
 _May 20, 2021 at 11am ET_
 
 _Instructors: Lindsey Heagy ([@lheagy](https://github.com/lheagy)), Devin Cowan ([@dccowan](https://github.com/dccowan))_
+
+_Slides: http://bit.ly/leads-intro-jupyter_
 
 ## Goals
 The goals of this tutorial are to:  
@@ -14,7 +16,7 @@ The goals of this tutorial are to:
 
 ## Schedule
 
-### Part 1: learn by doing -- working through a motivating example with the MAuna Loa CO2 data set
+### Part 1: learn by doing -- working through a motivating example with the Mauna Loa CO2 data set
 - [10 min] Introduction: overview of Jupyter and Syzygy, brief overview of Python
 - [10 min] Steps for accessing the tutorial notebooks to follow along 
 - [40 min] Mauna Loa notebook
@@ -63,6 +65,7 @@ Then download this code repository, unzip it, and upload all of the files to the
 
 ### On mybinder.org
 
+Alternatively, you can run the notebooks through mybinder.org by following the [binder link here](https://mybinder.org/v2/gh/lheagy/leads-intro-jupyter/HEAD?urlpath=lab). Note that this is an ephemeral session and that changes you make here will not be saved. If you would like to save your changes, you can download the notebook.  
 
 
 
