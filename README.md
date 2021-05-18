@@ -59,7 +59,7 @@ jupyter lab
 
 ### On Syzygy 
 
-Through PIMS, Cybera and Compute Canada, we have access to Jupyter resources on the cloud. You can go to [syzygy.ca](https://syzygy.ca/) to access the hubs. At the top right there is a "Launch" button. If you see your university listed there, you can select it, if not, select the `PIMS (Google)` hub and you can login with a gmail account there. 
+Through [PIMS](https://www.pims.math.ca/), [Cybera](https://www.cybera.ca/) and [Compute Canada](https://www.computecanada.ca/), we have access to Jupyter resources on the cloud. You can go to [syzygy.ca](https://syzygy.ca/) to access the hubs. At the top right there is a "Launch" button. If you see your university listed there, you can select it, if not, select the `PIMS (Google)` hub and you can login with a gmail account there. 
 
 Then download this code repository, unzip it, and upload all of the files to the syzygy hub. 
 
