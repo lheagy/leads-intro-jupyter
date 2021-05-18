@@ -13,9 +13,11 @@ The goals of this tutorial are to:
 - talk about the practical use of Jupyter and highlight features that are useful in a data science workflow
 
 ## Schedule
+
+### Part 1: learn by doing -- working through a motivating example with the MAuna Loa CO2 data set
 - [10 min] Introduction: overview of Jupyter and Syzygy, brief overview of Python
 - [10 min] Steps for accessing the tutorial notebooks to follow along 
-- [40 min] Mauna Loa notebook Part 1
+- [40 min] Mauna Loa notebook
     - overview of common packages in Python including Pandas and Matplotlib 
     - features of JupyterLab: notebook, viewing different data types
     - using the notebook: 
@@ -24,11 +26,21 @@ The goals of this tutorial are to:
         - accessing documentation using `?` and `??`
     - widgets and rich outputs 
 - [10 min] Break + questions
-- [30 min] Mauna Loa notebook Part 2 
+
+### Part 2: a more detailed overview of Jupyter 
+- [10 min] Notebook 2: more details 
+    - cell types
+    - managing the kernel
+    - rich displays & markdown 
+- [30 min] Notebook 3: IPython 
+    - documentation & getting help 
+    - interactive workflow 
+    - running shell commands
+    - magic functions 
     - debugging in Jupyter
-    - tips for reproducible workflows
-    - sharing notebooks on Binder  
-- [20 min] Wrap-up, additional resources and questions 
+    - quick tour of widgets
+- [10 min] tips for reproducible workflows and sharing notebooks on Binder  
+- [10 min] Wrap-up, additional resources and questions 
 
 ## Following along
 
